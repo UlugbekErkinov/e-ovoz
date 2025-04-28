@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "E-Ovoz",
+    "tagline": "Xavfsiz va shaffof saylovlar",
+    "description": "Ovoz berish tizimini raqamlashtirish orqali saylovlar ochiqligini ta'minlaymiz"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "vote": "Ovoz berish",
+    "results": "Natijalar",
+    "about": "Biz haqimizda"
+  },
+  "auth": {
+    "wallet": "Hamyonni ulang",
+    "login": "OneID",
+    "register": "Ro'yxatdan o'tish",
+    "logout": "Chiqish",
+    "idNumber": "Shaxsiy ID raqami",
+    "password": "Parol",
+    "enterID": "Shaxsiy ID raqamingizni kiriting",
+    "enterPassword": "Parolingizni kiriting"
+  },
+  "vote": {
+    "title": "Ovoz berish",
+    "instruction": "Quyidagi nomzodlardan birini tanlang",
+    "submit": "Ovoz berish",
+    "confirmation": "Ovozingiz muvaffaqiyatli qayd etildi",
+    "alreadyVoted": "Siz allaqachon ovoz bergansiz",
+    "select": "Nomzodni tanlang",
+    "success": "Ovozingiz muvaffaqiyatli qayd etildi",
+    "zkTitle": "Nol-bilim blokcheyn ovoz berish",
+    "zkDescription": "Bizning tizimimiz kimligingizni oshkor qilmasdan ovozingizni hisobga olish uchun nol-bilim isbotlaridan foydalanadi. Xavfsiz, maxfiy va tekshiriladigan ovoz berish uchun MetaMask hamyoningizni ulang.",
+    "privateVoting": "Nol-bilim isbotlari orqali maxfiy ovoz berish",
+    "tamperProof": "O'zgartirishdan himoyalangan blokcheyn tekshiruvi",
+    "decentralized": "Markazlashmagan va shaffof natijalar",
+    "testAccountsTitle": "Test hisoblar",
+    "testAccountsDesc": "Ovoz berish tizimini sinab ko'rish uchun ushbu ma'lumotlardan foydalaning",
+    "ledgerTitle": "Taqsimlangan reyestr texnologiyasi",
+    "ledgerDesc": "Barcha ovozlar xavfsiz markazlashmagan tarmokda saqlanadi"
+  },
+  "results": {
+    "title": "Saylov natijalari",
+    "totalVotes": "Jami ovozlar",
+    "lastUpdated": "Oxirgi yangilanish"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "decentralizedTitle": "Markazlashmagan tizim",
+    "decentralizedDesc": "Ovozlar xavfsiz markazlashmagan tarmokda saqlanadi",
+    "decentralizedDesc2": "Bizning blokcheyndan ilhomlangan tizimimiz ovoz berishdan keyin ovozlarni o'zgartirib bo'lmasligini ta'minlaydi.", 
+    "secureTitle": "Xavfsizlik",
+    "secureDesc": "Barcha ovozlar shifrlangan va xavfsizdir",
+    "secureDesc2": "Ko'p faktorli autentifikatsiya va shifrlash ovozlarni aniqlash va saylovlarni himoya qiladi..",
+    "transparentTitle": "Shaffoflik",
+    "transparentDesc": "Saylov natijalari haqiqiy vaqtda kuzatilishi mumkin", 
+    "transparentDesc2": "Tizim ovozlarning maxfiyligini saqlagan holda toʻliq shaffoflikni taʼminlaydi.",
+    "keyFeaturesTitle": "Asosiy xususiyatlar",
+    "mission": "Bizning vazifamiz barcha fuqarolar uchun xavfsiz, shaffof va ochiq ovoz berish tizimini ta’minlashdan iborat. Markazlashtirilmagan texnologiyadan foydalangan holda, biz ovozlar o'zgartirilmasligini va saylov natijalari xalqning irodasini to'g'ri ifodalashini ta'minlaymiz."
+  },
+  "footer": {
+    "copyright": "© 2025 E-Ovoz by Phobus Team. Barcha huquqlar himoyalangan.",
+    "terms": "Foydalanish shartlari",
+    "privacy": "Maxfiylik siyosati"
+  },
+  "language": {
+    "uz": "O'zbek",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "parties": {
+    "ldp": "O'zbekiston Liberal Demokratik Partiyasi",
+    "pdp": "O'zbekiston Xalq Demokratik Partiyasi",
+    "nrp": "O'zbekiston Milliy Tiklanish Partiyasi",
+    "ep": "O'zbekiston Ekologik Partiyasi"
+  }
+}

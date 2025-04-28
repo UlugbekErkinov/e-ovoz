@@ -1,0 +1,76 @@
+{
+  "app": {
+    "name": "E-Ovoz",
+    "tagline": "Secure and transparent elections",
+    "description": "Ensuring transparency of elections through digitization of the voting system"
+  },
+  "nav": {
+    "home": "Home",
+    "vote": "Vote",
+    "results": "Results",
+    "about": "About"
+  },
+  "auth": {
+    "wallet": "Connect Wallet",
+    "login": "OneID",
+    "register": "Register",
+    "logout": "Logout",
+    "idNumber": "Personal ID Number",
+    "password": "Password",
+    "enterID": "Enter your personal ID number",
+    "enterPassword": "Enter your password"
+  },
+  "vote": {
+    "title": "Voting",
+    "instruction": "Select one of the following candidates",
+    "submit": "Submit Vote",
+    "confirmation": "Your vote has been successfully recorded",
+    "alreadyVoted": "You have already voted",
+    "select": "Select a candidate",
+    "success": "Your vote has been successfully recorded",
+    "zkTitle": "Zero-Knowledge Blockchain Voting",
+    "zkDescription": "Our system uses zero-knowledge proofs to ensure your vote is counted without revealing your identity. Connect your MetaMask wallet to experience secure, private, and verifiable voting.",
+    "privateVoting": "Private voting through zero-knowledge proofs",
+    "tamperProof": "Tamper-proof blockchain verification",
+    "decentralized": "Decentralized and transparent results",
+    "testAccountsTitle": "Test Accounts",
+    "testAccountsDesc": "Use these credentials for testing the voting system",
+    "ledgerTitle": "Distributed ledger technology",
+    "ledgerDesc": "All votes are securely stored on a decentralized network"
+  },
+  "results": {
+    "title": "Election Results",
+    "totalVotes": "Total Votes",
+    "lastUpdated": "Last Updated"
+  },
+  "about": {
+    "title": "About Us",
+    "decentralizedTitle": "Decentralized System",
+    "decentralizedDesc": "Votes are stored on a secure decentralized network",
+    "decentralizedDesc2": "Our blockchain-inspired solution ensures votes cannot be tampered with once cast.",
+    "secureTitle": "Security",
+    "secureDesc": "All votes are encrypted and secure",
+    "secureDesc2": "Multi-factor authentication and encryption protect voter identities and ballot choices.",
+    "transparentTitle": "Transparency",
+    "transparentDesc": "Election results can be monitored in real-time",
+    "transparentDesc2": "The system provides full transparency while maintaining voter privacy.",
+    "keyFeaturesTitle": "Key Features", 
+    "mission": "Our mission is to provide a secure, transparent, and accessible voting system for all citizens. By utilizing decentralized technology, we ensure that votes are tamper-proof and the election results accurately represent the will of the people."
+  },
+  "footer": {
+    "copyright": "© 2025 E-Ovoz by Phobus Team. All rights reserved.",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy"
+  },
+  "language": {
+    "uz": "O'zbek",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "parties": {
+    "ldp": "Liberal Democratic Party",
+    "pdp": "People's Democratic Party",
+    "nrp": "National Revival Party",
+    "ep": "Ecological Party"
+  }
+}
