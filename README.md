@@ -44,6 +44,54 @@ npm install
 npm run dev
 ```
 
+## Blockchain Setup (Truffle + Ganache)
+### 1. Install Ganache CLI
+```bash
+npm install -g ganache
+```
+### or download Ganache Desktop.
+
+### Start Ganache on a separate terminal:
+
+```bash
+ganache
+```
+### Ganache will provide Ethereum accounts with private keys for local development.
+
+### 2. Install Truffle
+
+```bash
+npm install -g truffle
+```
+### 3. Compile Smart Contracts
+
+```bash
+truffle compile
+```
+### 4. Deploy Smart Contracts Locally
+
+```bash
+truffle migrate --network development
+```
+### Default Ganache configuration for Truffle (truffle-config.js):
+
+```javascript
+module.exports = {
+  networks: {
+    development: {
+      host: "127.0.0.1",
+      port: 8545,
+      network_id: "*", // Match any network id
+    }
+  },
+  compilers: {
+    solc: {
+      version: "0.8.20", // Match your smart contract version
+    }
+  }
+};
+```
+
 ## Project Structure
 
 - `src/components` - Reusable UI components
